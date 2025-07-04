@@ -11,9 +11,9 @@ Feel free to reach out if you have questions or just want to connect!
 
 🌱 Currently learning: Java Full Stack - Spring Boot.
 
-💬 Ask me about: Java, C, Python, Web Development.
+💬 Ask me about: Java, C,  Web Development.
 
-📧 Contact: [your-email-here]
+📧 Contact: nagarajanagaraj.2003@gmail.com
 
 🛠️ My Toolkit
 Here are some of the languages and tools I work with:
