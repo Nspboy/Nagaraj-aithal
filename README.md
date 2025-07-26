@@ -9,7 +9,7 @@ Feel free to reach out if you have questions or just want to connect!
 
 🔭 Currently building: Exciting web development projects.
 
-🌱 Currently learning: Java Full Stack - Spring Boot.
+🌱 Currently learning: Java Full Stack - Spring Boot. 
 
 💬 Ask me about: Java, C,  Web Development. 
 
