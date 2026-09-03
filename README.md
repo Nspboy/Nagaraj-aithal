@@ -1,4 +1,4 @@
-👋 Hi there, I'm nspboy!
+👋 Hi there, I'm Nagaraj Aithal!
 💻 Web Developer | Based in India 
 ✨ About Me
 I'm a dedicated web developer passionate about crafting robust and engaging digital experiences. I thrive on learning new technologies and solving complex problems.
